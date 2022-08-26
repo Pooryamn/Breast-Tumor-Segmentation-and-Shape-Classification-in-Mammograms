@@ -27,12 +27,12 @@ Mammograms, conditional generative adversarial network, convolutional
 neural network, tumor segmentation and shape classification.
 
 ## Figures:
-![ScreenShot]([https://github.com/Pooryamn/Breast-Tumor-Segmentation-and-Shape-Classification-in-Mammograms/blob/master/Fig1.jpg])
+![[alt text]([https://github.com/Pooryamn/Breast-Tumor-Segmentation-and-Shape-Classification-in-Mammograms/blob/master/Fig1.png])
 
-![ScreenShot]([https://github.com/Pooryamn/Breast-Tumor-Segmentation-and-Shape-Classification-in-Mammograms/blob/master/Fig2.jpg])
+![[alt text]([https://github.com/Pooryamn/Breast-Tumor-Segmentation-and-Shape-Classification-in-Mammograms/blob/master/Fig2.png])
 
-![ScreenShot]([https://github.com/Pooryamn/Breast-Tumor-Segmentation-and-Shape-Classification-in-Mammograms/blob/master/Fig3.jpg])
+![[alt text]([https://github.com/Pooryamn/Breast-Tumor-Segmentation-and-Shape-Classification-in-Mammograms/blob/master/Fig3.png])
 
-![ScreenShot]([https://github.com/Pooryamn/Breast-Tumor-Segmentation-and-Shape-Classification-in-Mammograms/blob/master/Fig4.jpg])
+![[alt text]([https://github.com/Pooryamn/Breast-Tumor-Segmentation-and-Shape-Classification-in-Mammograms/blob/master/Fig4.png])
 
-![ScreenShot]([https://github.com/Pooryamn/Breast-Tumor-Segmentation-and-Shape-Classification-in-Mammograms/blob/master/Fig5.jpg])
+![[alt text]([https://github.com/Pooryamn/Breast-Tumor-Segmentation-and-Shape-Classification-in-Mammograms/blob/master/Fig5.png])
